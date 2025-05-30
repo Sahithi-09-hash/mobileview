@@ -1,2 +1,2 @@
 # mobileview
-applied media queries for bobile view
+Applied media queries for mobile view
